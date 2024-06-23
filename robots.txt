@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vicytewr.github.io/sitemap
+Sitemap: https://vicytewr.github.io/app/sitemap
+Sitemap: https://vicytewr.github.io/assets/sitemap
+Sitemap: https://vicytewr.github.io/css/sitemap
+Sitemap: https://vicytewr.github.io/includes/sitemap
+Sitemap: https://vicytewr.github.io/item/sitemap
+Sitemap: https://vicytewr.github.io/src/sitemap
